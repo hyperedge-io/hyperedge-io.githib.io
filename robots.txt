@@ -3,3 +3,4 @@ Disallow: /thanks.html
 Disallow: /readme.txt
 Disallow: /404.html
 Disallow: /zohoverify/
+Sitemap: https://hyperedge.io/sitemap.xml
